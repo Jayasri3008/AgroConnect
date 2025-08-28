@@ -1,5 +1,4 @@
-// In orderController.js
-const Order = require('../models/order'); // match filename exactly
+const Order = require('../models/order'); // lowercase "o"
 
 const Product = require('../models/Product');
 
