@@ -1,4 +1,6 @@
-const Order = require('../models/order');
+// In orderController.js
+const Order = require('../models/Order'); // match filename exactly
+
 const Product = require('../models/Product');
 
 // Create Order
