@@ -1,5 +1,5 @@
 // In orderController.js
-const Order = require('../models/Order'); // match filename exactly
+const Order = require('../models/order'); // match filename exactly
 
 const Product = require('../models/Product');
 
