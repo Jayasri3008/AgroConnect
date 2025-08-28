@@ -1,5 +1,5 @@
-const Order = require('../models/order'); // lowercase "o"
-
+// Make sure the import matches the filename exactly
+const Order = require('../models/Order'); // uppercase "O"
 const Product = require('../models/Product');
 
 // Create Order
