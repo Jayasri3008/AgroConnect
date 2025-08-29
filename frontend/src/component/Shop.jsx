@@ -4,9 +4,9 @@ import ProductList from './ProductList'
 function Shop() {
   return (
     <>
-    <navbar>
+   
       <Navbar />
-    </navbar>
+   
     <div>
         <ProductList/>
     </div>
